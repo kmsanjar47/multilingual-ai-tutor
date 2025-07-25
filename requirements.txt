@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+fastapi
+uvicorn
+python-dotenv
+pydantic
+sentence-transformers
+faiss-cpu
+pymupdf
+numpy
+scikit-learn
+pyyaml
