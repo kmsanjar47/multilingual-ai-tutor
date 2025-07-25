@@ -54,10 +54,6 @@ jobs:
           CHUNK_OVERLAP=120
           EOF
 
-      - name: Create dummy PDF for CI
-        run: |
-          python .github/scripts/make_dummy_pdf.py
-
       - name: Ingest PDF -> FAISS
         run: |
           python -m src.ingest --pdfs data/*.pdf
