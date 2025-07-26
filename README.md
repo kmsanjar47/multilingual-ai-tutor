@@ -1,4 +1,4 @@
-# Multilingual RAG (Bangla & English) – FAISS + Gemini
+# Multilingual RAG (Bangla & English) AI Tutor – FAISS + Gemini
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system that answers **Bangla** and **English** queries based on the **HSC26 Bangla 1st Paper** PDF.
 
